@@ -1,4 +1,5 @@
 Este es un segundo commitcon archivo modificado
+captura doc
 PASOS
 crear archivo
 commit to main
