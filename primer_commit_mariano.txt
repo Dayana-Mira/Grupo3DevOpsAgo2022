@@ -1,1 +1,8 @@
-Este es un primer commit
+Este es un segundo commitcon archivo modificado
+PASOS
+crear archivo
+commit to main
+push to origin
+editar archivo
+commit to main
+push
