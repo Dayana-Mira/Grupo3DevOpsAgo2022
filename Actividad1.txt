@@ -1,5 +1,0 @@
-Grupo 3
-Integrantes:
-Mariano Collazo                                                                      
-José Martínez
-Dayana Mira  (Referente de Git)
