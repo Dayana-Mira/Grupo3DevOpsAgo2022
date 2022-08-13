@@ -1,1 +1,3 @@
 Este es mi primer documento.
+
+El documento fue editado para un segundo commit.
